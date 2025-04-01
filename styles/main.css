@@ -1,0 +1,16 @@
+p.main{
+    color: red;
+}
+
+a:hover{
+    background-color: blueviolet;
+    font-size: x-large;
+}
+
+div.nav{
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    margin: 1em;
+    padding: 1em;;
+}
